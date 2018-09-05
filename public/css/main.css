@@ -1,0 +1,146 @@
+.navbar{
+    min-height: 100px;
+}
+
+
+
+.panel {
+    box-shadow: 0 1px 1px rgba(0,0,0,0);
+    border: 0px solid transparent;
+}
+
+#logo_header {
+     display: block;
+     position: absolute;
+     width: auto;
+     height:60px;
+     top:   25px;
+     left: 10%;
+ }
+
+.title_name{
+    margin-top: 40px;
+}
+
+.label_icon{
+    color: green;
+    font-size:23px;
+}
+
+
+.glyphicon {
+    cursor: pointer;
+}
+
+.glyphicon-success{
+    color: green;
+}
+
+.glyphicon-warning{
+    color: red;
+}
+
+.glyphicon-danger{
+    color:yellow;
+}
+
+.glyphicon-default{
+    color:darkblue;
+}
+
+.hidden{
+    display: none;
+}
+
+.titulo{
+    text-align: center;
+    color: #009577;
+}
+.conten-img{
+    margin: auto;
+    width: 50%;
+    height: 30%;
+    padding: 10px;
+    margin-top: 5%;
+}
+.conten-img-title{
+    text-align: center;
+    color: #009577;
+    margin-top: 10%;
+    font-weight: bold;
+    font-size: 16px;
+}
+.conten-img-2{
+    margin: auto;
+    width: 50%;
+    height: 30%;
+    padding: 10px;
+    margin-top: 5%;
+    float: left;
+}
+.conten-img-title-2{
+    text-align: center;
+    color: #009577;
+    margin-top: 5%;
+    font-weight: bold;
+    font-size: 16px;
+    float: left;
+}
+.title-row{
+    text-align:left;
+    color:#2E3082;
+    font-weight: bold;
+    font-size: 20px;
+    float: left;
+    padding-bottom: 10px;
+	margin-top: 15px;
+
+}
+.table-head{
+    text-align: center;
+    background-color:#e2e2e1;
+    color: #2E3082;
+	border-radius: 12px;
+    height: 10%;
+}
+.icon-30{
+    font-size: 45px;
+    text-align: center;
+}
+.text-tr{
+    margin-top: 5px;
+    color: #2E3082;
+	border-bottom: #ddd 1px solid;
+	padding:20px;
+    line-height: 1.42857143;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+	vertical-align: middle;
+}
+
+.center{
+	z-index: 0;
+	text-align: center;
+}
+
+.titulo-pantalla{
+    text-align: center;
+    color: #009577;
+	font-size: 30px;
+}
+.titulo-pantalla-azul {
+    text-align: center;
+    color: #2B2D80;
+    font-size: 30px;
+}
+.btn-save{
+    background-color: #E97A70;
+    color: white;
+    margin-left: 20px;
+}
+.btn-cancelar{
+    background-color: gray;
+    color: white;
+    margin-left: 20px;
+}
